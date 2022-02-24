@@ -9,7 +9,7 @@ How does this company use technology to their advantage? Why are they considered
 
 Coinsquare is using a 100% proprietary platform. They are SSL & 2FA enabled and are focusing on having 95% of coins in cold storage. They also run multiple encryptions and utilize distributed backups. From the point of difference they are focusing on a Customer driven Experience. Coinsquare is providing low transparent fees, no trading minimum and a very approachable exchange. as they are focused on Crypto currencies they are a challenger in Fintech.
 
-#Prognosis/ Future Expectations
+# Prognosis/ Future Expectations
 
 Local legislation, favourable: Following initial hiccups, Canadian Securities Administration has issued new guidance that determines which digital currency trading platforms fall under derivatives law, making clear how to play safe within this new industry.
 
