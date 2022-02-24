@@ -8,3 +8,9 @@ CoinSquare was founded in 2014 by Rostand as a way to invest his time and career
 How does this company use technology to their advantage? Why are they considered a FinTech company?
 
 Coinsquare is using a 100% proprietary platform. They are SSL & 2FA enabled and are focusing on having 95% of coins in cold storage. They also run multiple encryptions and utilize distributed backups. From the point of difference they are focusing on a Customer driven Experience. Coinsquare is providing low transparent fees, no trading minimum and a very approachable exchange. as they are focused on Crypto currencies they are a challenger in Fintech.
+
+#Prognosis/ Future Expectations
+
+Local legislation, favourable: Following initial hiccups, Canadian Securities Administration has issued new guidance that determines which digital currency trading platforms fall under derivatives law, making clear how to play safe within this new industry.
+
+Local adoption of Crypto, optimistic: Plans to start adopting crypto for use in tax payments in the country's largets province, Ontario.
